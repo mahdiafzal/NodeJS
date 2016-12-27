@@ -1,5 +1,5 @@
-var template = require('../views/template-main');  
-exports.get = function(req, res) {  
+var template = require('../views/template-main');
+exports.get = function (req, res) {
   res.writeHead(404, {
     'Content-Type': 'text/html'
   });

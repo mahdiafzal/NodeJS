@@ -1,4 +1,4 @@
-var thelist = function() {  
+var thelist = function () {
   var objJson = {
     "GroupName": "D",
     "count": 4,
@@ -14,4 +14,4 @@ var thelist = function() {
   };
   return objJson;
 };
-exports.teamlist = thelist();  
+exports.teamlist = thelist();
